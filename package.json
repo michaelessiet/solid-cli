@@ -1,0 +1,24 @@
+{
+  "name": "create-solid-app",
+  "version": "1.0.0",
+  "description": "Solidjs CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelessiet/solid-cli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelessiet/solid-cli/issues"
+  },
+  "homepage": "https://github.com/michaelessiet/solid-cli#readme",
+  "dependencies": {
+    "inquirer": "^9.2.8",
+    "node-fetch": "^3.3.1",
+    "simple-git": "^3.19.1"
+  }
+}
