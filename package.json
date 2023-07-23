@@ -2,6 +2,7 @@
   "name": "create-solid-app",
   "version": "1.0.0",
   "description": "Solidjs CLI",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/michaelessiet/solid-cli#readme",
   "dependencies": {
+    "execa": "^7.1.1",
     "inquirer": "^9.2.8",
     "node-fetch": "^3.3.1",
     "simple-git": "^3.19.1"
