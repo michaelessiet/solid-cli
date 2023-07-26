@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/michaelessiet/solid-cli.git"
   },
+  "bin":{
+    "create-solid-app": "index.js"
+  },
   "author": "",
   "license": "MIT",
   "bugs": {
